@@ -1,0 +1,16 @@
+{
+    "name": "LeavePlan",
+    "alias": "leaveplan",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\LeavePlan\\Providers\\LeavePlanServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
